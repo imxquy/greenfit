@@ -1,0 +1,16 @@
+# Bỏ file môi trường
+.env
+*.env
+client/.env
+server/.env
+
+# Bỏ node_modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Bỏ các file hệ thống / IDE
+.DS_Store
+.vscode/
+*.log
+npm-debug.log*
